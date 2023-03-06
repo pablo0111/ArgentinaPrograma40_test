@@ -1,3 +1,7 @@
 Un archivo TXT
 Modificación desde github web
+<<<<<<< HEAD
 Modificacion Local
+=======
+Modificación desde github web Nro 2
+>>>>>>> 4eb72a36be3e32ce241ef87b032d631b33261c68
